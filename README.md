@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey I am Davi 👨‍💻
 
 - 🔭 I’m currently working on Trading bot project
 - 🌱 I’m currently learning DGraph
