@@ -1,8 +1,8 @@
-### Hey I am Davi 👨‍💻
+### Machine Learning 🤖
 
 - 🔭 I’m currently working on Trading bot project
-- 🌱 I’m currently learning DGraph
-- 👯 I’m looking to collaborate on OpenSource
+- 🌱 I’m currently learning PyTorch
+- 👯 I’m looking to collaborate on a Kaggle team
 - 🤔 I’m looking for help with Neural network - BTC 
 - 💬 Ask me about backend or machine learning
 - 📫 How to reach me: davichelimiquelim@gmail.com
