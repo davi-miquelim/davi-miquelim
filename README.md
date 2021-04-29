@@ -1,4 +1,4 @@
-<h1> Machine Learning 🤖 </h1>
+<h1> Cloud Engineer ☁️ </h1>
 
 - 🔭 I’m currently working on <strong> Trading Bot </strong>  project
 - 🔥 I’m currently learning <strong> PyTorch </strong> 
