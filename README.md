@@ -1,6 +1,6 @@
 <h1> Software Engineer </h1>
 
-- 🔭 I’m currently working on as a <strong> Consultant </strong> 
+- 🔭 I’m currently working as a <strong> Consultant </strong> 
 - 🔥 I’m currently learning <strong> Solidity & Blockchain technology </strong> 
 - 🦾 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with <strong> GunJs </strong>
