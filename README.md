@@ -5,5 +5,4 @@
 - 🦾 I’m looking to collaborate on Open Source
 - 💬 Ask me about backend or algorythims
 - 📫 How to reach me: davichelimiquelim@gmail.com
-- ⚡ Fun fact: Love solving algorythim problems
 -->
