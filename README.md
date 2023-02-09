@@ -1,7 +1,7 @@
 <h1> Software Engineer </h1>
 
-- 🔭 I’m currently working as a <strong> Consultant </strong> 
-- 🔥 I’m currently learning <strong> Solidity & Blockchain technology </strong> 
+- 🔭 I’m currently working as a <strong> Software Engineer at Bolttech </strong> 
+- 🔥 I’m currently learning <strong> GPT-3 & Deep Learning technology </strong> 
 - 🦾 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with <strong> GunJs </strong>
 - 💬 Ask me about backend or algorythims
