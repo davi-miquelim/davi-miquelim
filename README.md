@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working as a <strong> Software Engineer at Bolttech </strong> 
 - 🦾 I’m looking to collaborate on Open Source
-- 💬 Ask me about backend or algorythims
+- 💬 Ask me about backend or algorithims
 - 📫 How to reach me: davichelimiquelim@gmail.com
 -->
