@@ -1,1 +1,2 @@
-I’m a <strong> Software Engineer at Bolttech </strong>
+> I propose to consider the question, 'Can machines think?
+Alan Turing
