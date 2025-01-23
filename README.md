@@ -1,7 +1,4 @@
 <h1> Software Engineer </h1>
 
-- 🔭 I’m currently working as a <strong> Software Engineer at Bolttech </strong> 
-- 🦾 I’m looking to collaborate on Open Source
-- 💬 Ask me about backend or algorithims
-- 📫 How to reach me: davichelimiquelim@gmail.com
--->
+I’m a <strong> Software Engineer at Bolttech </strong> 
+- Interested in deep neural nets
