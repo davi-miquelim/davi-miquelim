@@ -1,1 +1,1 @@
-> I propose to consider the question, 'Can machines think?
+The hardware matters
